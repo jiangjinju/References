@@ -1,4 +1,6 @@
-# GeoLing
+# GeoLing(https://github.com/dcavar/GeoLing)
+
+GeoLing: GIS app for mailing list announcements via LINGUIST List https://geoling.linguistlist.org/
 
 Authors:
 - [Damir Cavar] <damir@linguistlist.org>
